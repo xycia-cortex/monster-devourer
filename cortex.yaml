@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: monster-devourer
+  x-cortex-tag: monster-devourer
+  x-cortex-custom-metadata:
+    alignment: lawful-evil
+    type: fiend
+    challenge_rating: 13
+    legendary: true
+    source: dnd-5e
+  x-cortex-type: monster
